@@ -45,7 +45,7 @@ I am always looking for new challenges and opportunities to grow and expand my s
 ## Contact Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nasirsce/)
-- Email: [nunnasir@gmail.com]
+- Email: nunnasir@gmail.com
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
 
