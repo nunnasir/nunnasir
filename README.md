@@ -10,7 +10,7 @@ nunnasir/nunnasir is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# [Nasir Uddin]'s GitHub Profile
+# [Nasir Uddin]
 
 ## About Me
 
@@ -26,7 +26,7 @@ I am always looking for new challenges and opportunities to grow and expand my s
 
 ### Software Engineer at Brain Station 23 Limited
 - Full-time position
-- Duration: November 2020 - Present (3 years, 1 month)
+- Duration: November 2020 - Present
 - Location: Dhaka, Bangladesh (On-site)
 
 #### Responsibilities:
@@ -35,26 +35,17 @@ I am always looking for new challenges and opportunities to grow and expand my s
 - Work with the users and peer teams to understand the workflows and current problems and deliver valuable solutions that help drive business value faster.
 
 #### Skills:
-- Communication
-- Web Applications
-- ASP.NET Web API
-- Oracle Database
-- JavaScript
+- C#
 - ASP.NET Core
+- ASP.NET Web API
+- JavaScript
 - Microsoft SQL Server
-
-## Projects
-
-List any notable projects you've worked on and provide links to their repositories or websites, along with brief descriptions of each.
+- Oracle Database
 
 ## Contact Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nasirsce/)
-- Email: [Your Email Address]
+- Email: [nunnasir@gmail.com]
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
-
-## Additional Information
-
-Include any other relevant information, such as certifications, awards, or personal interests.
 
