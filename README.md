@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-As a Software Engineer, I am passionate about developing and implementing innovative software solutions for various industries. With over 4+ years of experience in the industry, I have a proven track record of delivering high-quality software on time and within budget.
+As a Software Engineer, I am passionate about developing and implementing innovative software solutions for various industries. With over 5 years of experience in the industry, I have a proven track record of delivering high-quality software on time and within budget.
 
 I have a strong foundation in various programming languages and technologies, including C#, .NET Core, and JavaScript. I have extensive experience developing web applications and services and working with databases and data analysis.
 
@@ -24,7 +24,7 @@ I am always looking for new challenges and opportunities to grow and expand my s
 
 ## Professional Experience
 
-### Software Engineer at Brain Station 23 Limited
+### Sr. Software Engineer at Brain Station 23 Limited
 - Full-time position
 - Duration: November 2020 - Present
 - Location: Dhaka, Bangladesh (On-site)
