@@ -86,38 +86,6 @@ My work spans the full application development lifecycle across **pharmaceutical
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nunnasir&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [**EMS**](https://github.com/nunnasir/EMS) | Exam Management System — manages organisations, trainers, participants, courses & online exams | `C#` `ASP.NET` `MSSQL` |
-| [**smart-inventory-ostad-07**](https://github.com/nunnasir/smart-inventory-ostad-07) | Smart inventory management system | `JavaScript` |
-| [**AspNetMvcBatch7-N-TierArchitecture**](https://github.com/nunnasir/AspNetMvcBatch7-N-TierArchitecture) | N-Tier architecture reference implementation in ASP.NET MVC | `C#` `ASP.NET MVC` |
-| [**SignalRExample**](https://github.com/nunnasir/SignalRExample) | Real-time communication demo using SignalR | `C#` `SignalR` `HTML` |
-| [**OstadForum**](https://github.com/nunnasir/OstadForum) | Community Q&A forum platform | `C#` `ASP.NET` |
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Nasir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nunnasir&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
